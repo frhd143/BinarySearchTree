@@ -1,3 +1,5 @@
+# Written by Farhad Asadi
+
 class BST:
     """ Binary Serach Tree"""
     class Node:
