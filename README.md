@@ -47,7 +47,9 @@ print(tree.to_graphviz())
 ```
 The function prints the code you need to copy and paste in the website above.
 
-
+## Contributing
+Contributions to this project are welcome. If you find a bug or want to suggest an improvement, please open an issue or submit a pull request.
+Or email me here: f.asadi2002@gmail.com
 
 ## License
 This code is released under the MIT License.
